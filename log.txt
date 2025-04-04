@@ -1,0 +1,21 @@
+https://www.alura.com.br- online: true
+https://www.google.com/- online: true
+https://www.alura.com.br- online: true
+https://www.google.com/- online: true
+https://www.alura.com.br- online: true
+https://www.google.com/- online: true
+04/04/2025 11:16:13 - site-falso- online: false
+04/04/2025 11:16:15 - https://www.alura.com.br- online: true
+04/04/2025 11:16:15 - https://www.google.com/- online: true
+04/04/2025 11:16:20 - https://www.alura.com.br- online: true
+04/04/2025 11:16:20 - https://www.google.com/- online: true
+04/04/2025 11:16:25 - https://www.alura.com.br- online: true
+04/04/2025 11:16:25 - https://www.google.com/- online: true
+04/04/2025 11:27:28 - site-falso - online: false
+04/04/2025 11:27:30 - https://www.alura.com.br - online: true
+04/04/2025 11:27:30 - https://www.google.com/ - online: true
+04/04/2025 11:27:35 - https://www.alura.com.br - online: true
+04/04/2025 11:27:35 - https://www.google.com/ - online: true
+04/04/2025 11:27:41 - https://www.alura.com.br - online: true
+04/04/2025 11:27:41 - https://www.google.com/ - online: true
+04/04/2025 11:28:19 - site-falso - online: false
